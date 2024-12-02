@@ -121,7 +121,7 @@ https://sketchfab.com/3d-models/maria-queen01-formal-shirt-catwalk-01-033b69ff14
 </p>
 <h2>Desenvolvimento do Jogo</h2>
 <p>
-Para o desenvolvimeto do jogo utilizamos os assets mencionados, algumas texturas e um modelo feito por nós mesmos como parede, os posicionei para criar o quarto.<br>
+Para o desenvolvimeto do jogo utilizamos os assets mencionados, algumas texturas e um modelo feito por nós mesmos como parede, os posicionei para criar o quarto, no personagem utilizei os scripts de movimento e puzzle para rodar nele. Utilizei o recurso ""Free look camera" e fixei a câmera ao persoangem, coloquei um colisor em cada símbolo e utilizei o código "colisorvalue" para dar um valor a cada colisor de 1 a 12, para poder utilizar para verificar se a sequência estava correta. O script "puzzle" fazia a verificação, mandando os sons para indicar e trocava de tela quando o jogador completasse a sequência. <br>
 No menu eu adicionei um canvas, um botão de "sair", e outro de "jogar" e um plano de fundo, tudo dentro do canvas, e utilizei o código do "menu" nesses botões.
 </p>
 <h2>Relátório</h2>
