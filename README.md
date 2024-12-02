@@ -36,7 +36,8 @@ O jogo é em terceira pessoa no estilo puzzle. Por meio da movimentação básic
 </p>
 <h2>Esboço Conceitual</h2>
 
-![WhatsApp Image 2024-12-01 at 21 32 40_af144777](https://github.com/user-attachments/assets/ed476a1d-79a2-4add-983e-2a31c75058c7)
+![WhatsApp Image 2024-12-01 at 21 32 40_e18fe932](https://github.com/user-attachments/assets/de9af9fd-a678-476e-b4fc-c1973237b45d)
+
 
 
 
