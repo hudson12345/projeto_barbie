@@ -36,11 +36,14 @@ No salão principal do castelo, há um mosaico no chão com símbolos que repres
 </p>
 <h2>Proposta da Cena</h2>
 <p>
-Barbie precisa conversar com as princesas no quarto para descobrir como solucionar o enigma. Seguindo a ordem dos símbolos nas cobertas das camas, ela deve pisar nos símbolos nessa ordem. Isso liberará a escadaria que leva para o outro mundo.
+O jogo combina exploração, raciocínio lógico e interatividade. O jogador deve entender a relação entre os símbolos e a ordem correta para conseguir avançar, criando uma experiência que mistura a narrativa do filme com a jogabilidade de resolução de puzzles.
 </p>
 <h2>Personagens involvidos</h2>
 <p>
-Barbie precisa conversar com as princesas no quarto para descobrir como solucionar o enigma. Seguindo a ordem dos símbolos nas cobertas das camas, ela deve pisar nos símbolos nessa ordem. Isso liberará a escadaria que leva para o outro mundo.
+Barbie<br>
+A princesa mais velha é Hadley.<br>
+A princesa mais nova é Isla.<br>
+A sétima princesaé a Genevieve. 
 </p>
 <h2>Jogabilidade</h2>
 <p>
@@ -107,6 +110,11 @@ https://sketchfab.com/3d-models/maria-queen01-formal-shirt-catwalk-01-033b69ff14
 <h2>Diagrama de Classe Antigo</h2>
 
 ![WhatsApp Image 2024-12-01 at 22 29 33_ef08fc67](https://github.com/user-attachments/assets/262892d7-8fc3-444f-98eb-c18dc349e796)
+
+<h2>Explicação do Jogo</h2>
+<p>
+é um jogo de aventura e puzzle baseado no filme Barbie e as 12 Princesas Bailarinas. No jogo, o jogador controla Barbie (Genevieve) para resolver um enigma que leva a um portal mágico. O objetivo é ajudar Barbie a descobrir a ordem correta dos símbolos no tapete do quarto do castelo, representando suas irmãs princesas, seguindo pistas das camas. A cada acerto, sons e efeitos visuais indicam o progresso até que a sequência correta seja completada, revelando uma escada mágica para o mundo encantado. O jogo combina exploração, lógica e interatividade, utilizando uma paleta de cores suaves e vibrantes para criar uma atmosfera mágica e refletir a transição entre os mundos do castelo e do reino mágico.
+</p>
 
 
 
