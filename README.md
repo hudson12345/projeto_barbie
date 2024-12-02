@@ -24,15 +24,21 @@ No salão principal do castelo, há um mosaico no chão com símbolos que repres
 <hr>
 <h1>Proposta da Cena</h1>
 <p>
-Barbie deve conversar com as princesas pelo quarto para descobrir como resolver o enigma. De acordo com a ordem das cobertas das camas, cada uma contendo um símbolo ela deve pisar no tapete no centro do quarto para liberar a escadaria para o outro mundo.
+Barbie precisa conversar com as princesas no quarto para descobrir como solucionar o enigma. Seguindo a ordem dos símbolos nas cobertas das camas, ela deve pisar nos símbolos nessa ordem. Isso liberará a escadaria que leva para o outro mundo.
 </p>
-<h2>Ideia da Cena</h2>
-
+<h2>Jogabilidade</h2>
 <p>
-Após descobrirem que sua mãe, antes de falecer, deixou pistas sobre um portal mágico, Genevieve e suas irmãs encontram um livro com instruções misteriosas. O livro menciona um enigma envolvendo os talentos das princesas e sua paixão pela dança.
-
-No salão principal do castelo, há um mosaico no chão com símbolos que representam cada uma das irmãs. Para resolver o enigma, as princesas precisam pisar nas pedras correspondentes em uma ordem específica, alinhada à música e aos passos de dança descritos no livro. Com cada passo correto, os mosaicos começam a brilhar, e sons mágicos ecoam pelo salão.
+O jogo é em terceira pessoa no estilo puzzle. Por meio da movimentação básica da personagem ela deverá pisar nos símbolos do tapete no centro do quarto na ordem correta, caso ela acerte ou erre, toca um som para indicar, e quando concluir a sequência troca de cena
 </p>
+<h2>Jogabilidade</h2>
+<p>
+O jogo é em terceira pessoa no estilo puzzle. Por meio da movimentação básica da personagem ela deverá pisar nos símbolos do tapete no centro do quarto na ordem correta, caso ela acerte ou erre, toca um som para indicar, e quando concluir a sequência troca de cena
+</p>
+<h2>Esboço Conceitual</h2>
+
+![WhatsApp Image 2024-12-01 at 21 32 40_af144777](https://github.com/user-attachments/assets/ed476a1d-79a2-4add-983e-2a31c75058c7)
+
+
 
 
 
