@@ -90,7 +90,8 @@ https://sketchfab.com/3d-models/maria-queen01-formal-shirt-catwalk-01-033b69ff14
 
 <h2>Diagrama</h2>
 
-![WhatsApp Image 2024-12-01 at 21 32 40_e18fe932](https://github.com/user-attachments/assets/f0d11d25-830d-4ac6-b585-1ffb7c287628)
+![WhatsApp Image 2024-12-01 at 22 29 33_ef08fc67](https://github.com/user-attachments/assets/262892d7-8fc3-444f-98eb-c18dc349e796)
+
 
 
 
