@@ -121,16 +121,17 @@ https://sketchfab.com/3d-models/maria-queen01-formal-shirt-catwalk-01-033b69ff14
 </p>
 <h2>Desenvolvimento do Jogo</h2>
 <p>
-Para o desenvolvimeto do jogo utilizamos os assets mencionados, algumas texturas e um modelo feito por nós mesmos como parede, os posicionei para criar criar  .
+Para o desenvolvimeto do jogo utilizamos os assets mencionados, algumas texturas e um modelo feito por nós mesmos como parede, os posicionei para criar criar.
 </p>
 <h2>Relátório</h2>
 <p>
-Hudson: Desenvolveu toda a cena, scripts utilizados no projeto e o repositório no git hub<br>
+Hudson: Desenvolveu toda a cena, scripts utilizados no projeto e o repositório no git hub.<br>
 Bruno: Conseguiu extrair a textura do tapete, fez o modelo da parede e do tapete, encontrou os planos de fundo e formato do botão usados no menu e desenvolveu scripts de puzzle, movimentação, câmera e menu que não consegui implementar no projeto e fez parte do novo diagrama de classe.
 </p>
 <h2>Complicações</h2>
 <p>
-Consegui só começar a alterar o projeto do git hub as 18:00 de domingo, então terminei tarde de alterar pois não estava em casa. E não consegui fazer o novo diagrama de classes que não estava em minhas responsabilidades.
+Consegui só começar a alterar o projeto do git hub as 18:00 de domingo, então terminei tarde de alterar pois não estava em casa. E não consegui fazer o novo diagrama de classes que não estava em minhas responsabilidades.<br>
+Minha dupla desenvolveu alguns scripts mas estava muito em cima da hora para conseguir impletar no projeto.
 </p>
 
 
