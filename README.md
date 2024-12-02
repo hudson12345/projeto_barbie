@@ -47,7 +47,11 @@ A sétima princesa é a Genevieve.
 </p>
 <h2>Jogabilidade</h2>
 <p>
-O jogo é em terceira pessoa no estilo puzzle. Por meio da movimentação básica da personagem ela deverá pisar nos símbolos do tapete no centro do quarto na ordem correta, caso ela acerte ou erre, toca um som para indicar, e quando concluir a sequência troca de cena
+O jogo é um puzzle em terceira pessoa, onde o jogador controla Barbie para explorar o quarto do castelo. A mecânica envolve:<br>
+<br>
+Movimentação: O jogador deve mover Barbie para pisar nos símbolos do tapete na ordem correta.<br>
+Feedback auditivo e visual: Ao pisar no símbolo correto, há um som que indica o acerto. Se errar, um som de erro é emitido. A sequência correta libera a escada mágica.<br>
+Objetivo: Quando a sequência correta é concluída, a cena muda e uma escadaria para o mundo mágico se revela.
 </p>
 <h2>Esboço Conceitual</h2>
 
