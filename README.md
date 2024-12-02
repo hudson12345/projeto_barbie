@@ -43,7 +43,7 @@ O jogo combina exploração, raciocínio lógico e interatividade. O jogador dev
 Barbie<br>
 A princesa mais velha é Hadley.<br>
 A princesa mais nova é Isla.<br>
-A sétima princesaé a Genevieve. 
+A sétima princesa é a Genevieve. 
 </p>
 <h2>Jogabilidade</h2>
 <p>
