@@ -2,8 +2,8 @@
 # Barbies e as 12 princesas bailarinas
 # Descobrimento do portal no quarto
 Alunos: Hudson Araujo e Bruno Ichikawa<br>
-jogo jogável: https://drive.google.com/file/d/10_wB_qzlB_8NqteNp9xiz4z8foeczsQt/view?usp=sharing
-projeto: https://drive.google.com/file/d/1EyRn0gvncAwHJFVfKMsHJHgDhfR89H5T/view?usp=sharing
+jogo jogável: https://drive.google.com/file/d/10_wB_qzlB_8NqteNp9xiz4z8foeczsQt/view?usp=sharing<br>
+projeto: https://drive.google.com/file/d/1EyRn0gvncAwHJFVfKMsHJHgDhfR89H5T/view?usp=sharing<br>
 Video: https://drive.google.com/file/d/1lM9XxLcGIWCO3MkfcHh3gLwdiGfJyRDA/view?usp=sharing
 <hr>
 
