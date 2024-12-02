@@ -117,7 +117,11 @@ https://sketchfab.com/3d-models/maria-queen01-formal-shirt-catwalk-01-033b69ff14
 
 <h2>Explicação do Jogo</h2>
 <p>
-é um jogo de aventura e puzzle baseado no filme Barbie e as 12 Princesas Bailarinas. No jogo, o jogador controla Barbie (Genevieve) para resolver um enigma que leva a um portal mágico. O objetivo é ajudar Barbie a descobrir a ordem correta dos símbolos no tapete do quarto do castelo, representando suas irmãs princesas, seguindo pistas das camas. A cada acerto, sons e efeitos visuais indicam o progresso até que a sequência correta seja completada, revelando uma escada mágica para o mundo encantado. O jogo combina exploração, lógica e interatividade, utilizando uma paleta de cores suaves e vibrantes para criar uma atmosfera mágica e refletir a transição entre os mundos do castelo e do reino mágico.
+É um jogo de aventura e puzzle baseado no filme Barbie e as 12 Princesas Bailarinas. No jogo, o jogador controla Barbie (Genevieve) para resolver um enigma que leva a um portal mágico. O objetivo é ajudar Barbie a descobrir a ordem correta dos símbolos no tapete do quarto do castelo, representando suas irmãs princesas, seguindo pistas das camas. A cada acerto, sons e efeitos visuais indicam o progresso até que a sequência correta seja completada, revelando uma escada mágica para o mundo encantado. O jogo combina exploração, lógica e interatividade, utilizando uma paleta de cores suaves e vibrantes para criar uma atmosfera mágica e refletir a transição entre os mundos do castelo e do reino mágico.
+</p>
+<h2>Desenvolvimento do Jogo</h2>
+<p>
+Para o desenvolvimeto do jogo utilizamos os assets mencionados, algumas texturas e um modelo feito por nós mesmos como parede, posicionei as paredes, lógo em seguida as camas
 </p>
 
 
