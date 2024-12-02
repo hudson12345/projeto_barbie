@@ -35,7 +35,7 @@ O jogo é em terceira pessoa no estilo puzzle. Por meio da movimentação básic
 ![WhatsApp Image 2024-12-01 at 21 32 40_e18fe932](https://github.com/user-attachments/assets/de9af9fd-a678-476e-b4fc-c1973237b45d)
 
 <hr>
-<h2>Análise da Teoria das Cores</h2>
+<h2>Análise da Teoria das Cores do Filme</h2>
 <p>
 <strong>1. Paleta de Cores e Temas:</strong>
 Cores Pastel e Tons Suaves: A maior parte do filme usa cores suaves, como rosa, azul, lilás e dourado. Essas cores criam uma atmosfera de magia e feminilidade, características centrais ao universo Barbie.
@@ -51,6 +51,14 @@ Os momentos de dança são especialmente marcados por uma explosão de cores. Ca
 <strong>5. Significado Simbólico:</strong>
 Unidade e Individualidade: Embora as princesas sejam um grupo, cada uma possui uma cor que as diferencia, destacando o equilíbrio entre unidade familiar e individualidade.
 Luz e Esperança: As cores mais brilhantes e claras aparecem nos momentos de triunfo, reforçando temas de esperança e renovação.
+</p>
+<h2>Análise da Teoria das Cores da Cena</h2>
+<p>
+Na cena em que as princesas resolvem o enigma e liberam a escadaria para o mundo mágico, a teoria das cores desempenha um papel crucial para intensificar a atmosfera de descoberta e transição. O ambiente inicialmente é iluminado por uma luz suave e dourada, com sombras suaves que sugerem mistério e expectativa. À medida que o enigma é resolvido, há uma mudança gradual nas cores: tons de azul e roxo começam a aparecer, representando a magia e o desconhecido.
+
+Quando a escadaria se revela, a explosão de luz e cor transforma completamente o cenário. A escadaria é iluminada por um brilho etéreo que mistura dourado e prateado com reflexos de tons pastel, como lilás e azul-claro. Essas cores não apenas destacam a natureza mágica do portal, mas também simbolizam a transição para um lugar de liberdade e alegria. O brilho cintilante em torno da escadaria sugere um convite, uma passagem segura para um refúgio longe da opressão do palácio.
+
+A combinação das cores quentes e frias nesta cena cria um equilíbrio visual que reflete o sentimento de esperança e aventura. As princesas, cada uma com seus vestidos de cores distintas, são banhadas por essa luz mágica, unindo suas individualidades sob um propósito comum. Essa paleta harmoniosa reforça a ideia de que o reino mágico é um lugar onde elas podem ser verdadeiramente livres e expressar suas personalidades.
 </p>
 
 
