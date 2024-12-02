@@ -4,7 +4,7 @@
 Alunos: Hudson Araujo e Bruno Ichikawa<br>
 jogo jogável: https://drive.google.com/file/d/10_wB_qzlB_8NqteNp9xiz4z8foeczsQt/view?usp=sharing<br>
 projeto: https://drive.google.com/file/d/1EyRn0gvncAwHJFVfKMsHJHgDhfR89H5T/view?usp=sharing<br>
-Video: https://drive.google.com/file/d/1lM9XxLcGIWCO3MkfcHh3gLwdiGfJyRDA/view?usp=sharing
+Video: [https://drive.google.com/file/d/1lM9XxLcGIWCO3MkfcHh3gLwdiGfJyRDA/view?usp=sharing](https://drive.google.com/file/d/1OBJXtQMcqow58tPN-hQdnAw2tPW1heFY/view?usp=sharing)
 <hr>
 
 ![image](https://github.com/user-attachments/assets/49429753-88fc-424a-a061-f23d93ea32ba)
