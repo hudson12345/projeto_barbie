@@ -28,9 +28,6 @@ No salão principal do castelo, há um mosaico no chão com símbolos que repres
  é a protagonista central, representando coragem, determinação e liderança. Como a sétima filha, ela está no meio da hierarquia das irmãs, o que simboliza seu papel como ponto de equilíbrio entre as mais velhas e as mais novas. Sua paixão pela dança reflete sua busca por liberdade e autoexpressão, características que a tornam uma líder natural. Genevieve é curiosa e perspicaz, frequentemente tomando a iniciativa para resolver os problemas que surgem, como o enigma do portal.<br>
 <strong>12 príncesas:</strong>
  funcionam como um coletivo de protagonistas, cada uma trazendo uma característica única que contribui para o desenrolar da história.
-
-Ponto forte: Capacidade de inspirar e unir as irmãs em momentos de crise.
-Desenvolvimento: Ao longo do filme, Genevieve aprende a confiar não apenas em si mesma, mas também nas habilidades únicas de cada irmã, reforçando o tema da colaboração.
 </p>
 <h2>Proposta da Cena</h2>
 <p>
