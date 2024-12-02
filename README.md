@@ -121,7 +121,11 @@ https://sketchfab.com/3d-models/maria-queen01-formal-shirt-catwalk-01-033b69ff14
 </p>
 <h2>Desenvolvimento do Jogo</h2>
 <p>
-Para o desenvolvimeto do jogo utilizamos os assets mencionados, algumas texturas e um modelo feito por nós mesmos como parede, posicionei as paredes, lógo em seguida as camas
+Para o desenvolvimeto do jogo utilizamos os assets mencionados, algumas texturas e um modelo feito por nós mesmos como parede, os posicionei para criar criar  
+</p>
+<h2>Relátório</h2>
+<p>
+Para o desenvolvimeto do jogo utilizamos os assets mencionados, algumas texturas e um modelo feito por nós mesmos como parede, posicionei as paredes, lógo em seguida as 
 </p>
 
 
