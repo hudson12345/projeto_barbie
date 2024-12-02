@@ -34,6 +34,8 @@ O jogo é em terceira pessoa no estilo puzzle. Por meio da movimentação básic
 
 ![WhatsApp Image 2024-12-01 at 21 32 40_e18fe932](https://github.com/user-attachments/assets/de9af9fd-a678-476e-b4fc-c1973237b45d)
 
+<hr>
+<h2>Análise da Teoria das Cores</h2>
 <p>
 <strong>1. Paleta de Cores e Temas:</strong>
 Cores Pastel e Tons Suaves: A maior parte do filme usa cores suaves, como rosa, azul, lilás e dourado. Essas cores criam uma atmosfera de magia e feminilidade, características centrais ao universo Barbie.
