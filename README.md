@@ -61,7 +61,7 @@ Quando a escadaria se revela, a explosão de luz e cor transforma completamente 
 A combinação das cores quentes e frias nesta cena cria um equilíbrio visual que reflete o sentimento de esperança e aventura. As princesas, cada uma com seus vestidos de cores distintas, são banhadas por essa luz mágica, unindo suas individualidades sob um propósito comum. Essa paleta harmoniosa reforça a ideia de que o reino mágico é um lugar onde elas podem ser verdadeiramente livres e expressar suas personalidades.
 </p>
 <hr>
-<h1>Assets do Quarto</h1>
+<h2>Assets do Quarto</h2>
 
 ![Untitled design](https://github.com/user-attachments/assets/2b4ba3d1-8060-47fe-9b55-8f4ed9200bbf)
 
@@ -74,10 +74,9 @@ Porta/Varanda: https://free3d.com/3d-model/-x80-double-french-mullion-doorwhite-
 
 Baús: https://assetstore.unity.com/packages/3d/props/low-poly-chest-animated-247127 
 </p>
-<h1>Assets dos Personagens</h1>
+<h2>Assets dos Personagens</h2>
 
 ![Untitled design (1)](https://github.com/user-attachments/assets/f73fe230-bce5-42f8-a3f4-af82e5fcd4ab)
-
 
 <p>
 https://sketchfab.com/3d-models/parameswara-chronicles-princess-sister-idle-25adff7bea9244dcb893af3fe936a710
@@ -88,6 +87,16 @@ https://sketchfab.com/3d-models/princess-and-the-pea-1bd50b49d5f244ed9c163941301
 <br>
 https://sketchfab.com/3d-models/maria-queen01-formal-shirt-catwalk-01-033b69ff1462419bb88becc90ef532fa
 </p>
+
+<h2>Diagrama</h2>
+
+![WhatsApp Image 2024-12-01 at 21 32 40_e18fe932](https://github.com/user-attachments/assets/f0d11d25-830d-4ac6-b585-1ffb7c287628)
+
+
+
+
+
+
 
 
 
