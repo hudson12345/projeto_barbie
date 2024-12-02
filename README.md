@@ -22,7 +22,11 @@ Após descobrirem que sua mãe, antes de falecer, deixou pistas sobre um portal 
 No salão principal do castelo, há um mosaico no chão com símbolos que representam cada uma das irmãs. Para resolver o enigma, as princesas precisam pisar nas pedras correspondentes em uma ordem específica, alinhada à música e aos passos de dança descritos no livro. Com cada passo correto, os mosaicos começam a brilhar, e sons mágicos ecoam pelo salão.
 </p>
 <hr>
-<h1>Proposta da Cena</h1>
+<h2>Proposta da Cena</h2>
+<p>
+Barbie precisa conversar com as princesas no quarto para descobrir como solucionar o enigma. Seguindo a ordem dos símbolos nas cobertas das camas, ela deve pisar nos símbolos nessa ordem. Isso liberará a escadaria que leva para o outro mundo.
+</p>
+<h2>Personagens involvidos</h2>
 <p>
 Barbie precisa conversar com as princesas no quarto para descobrir como solucionar o enigma. Seguindo a ordem dos símbolos nas cobertas das camas, ela deve pisar nos símbolos nessa ordem. Isso liberará a escadaria que leva para o outro mundo.
 </p>
