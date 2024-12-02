@@ -74,6 +74,20 @@ Porta/Varanda: https://free3d.com/3d-model/-x80-double-french-mullion-doorwhite-
 
 Baús: https://assetstore.unity.com/packages/3d/props/low-poly-chest-animated-247127 
 </p>
+<h1>Assets dos Personagens</h1>
+
+![Untitled design (1)](https://github.com/user-attachments/assets/f73fe230-bce5-42f8-a3f4-af82e5fcd4ab)
+
+
+<p>
+https://sketchfab.com/3d-models/parameswara-chronicles-princess-sister-idle-25adff7bea9244dcb893af3fe936a710
+<br>
+https://sketchfab.com/3d-models/princess-zelda-fb6cbc0052604486ac09f42cdbe5fabf
+<br>
+https://sketchfab.com/3d-models/princess-and-the-pea-1bd50b49d5f244ed9c1639413017ebee
+<br>
+https://sketchfab.com/3d-models/maria-queen01-formal-shirt-catwalk-01-033b69ff1462419bb88becc90ef532fa
+</p>
 
 
 
