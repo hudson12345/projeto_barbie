@@ -60,7 +60,20 @@ Quando a escadaria se revela, a explosão de luz e cor transforma completamente 
 
 A combinação das cores quentes e frias nesta cena cria um equilíbrio visual que reflete o sentimento de esperança e aventura. As princesas, cada uma com seus vestidos de cores distintas, são banhadas por essa luz mágica, unindo suas individualidades sob um propósito comum. Essa paleta harmoniosa reforça a ideia de que o reino mágico é um lugar onde elas podem ser verdadeiramente livres e expressar suas personalidades.
 </p>
+<hr>
+<h1>Assets do Quarto</h1>
 
+![Untitled design](https://github.com/user-attachments/assets/2b4ba3d1-8060-47fe-9b55-8f4ed9200bbf)
+
+<p>
+Porta: https://sketchfab.com/3d-models/door-b037e932fd774dd9b355ba0a403f5c79
+
+Camas: https://sketchfab.com/3d-models/3d-low-poly-beds-in-different-colours-b6339c51debe404fa589dd0112eb1d3b
+
+Porta/Varanda: https://free3d.com/3d-model/-x80-double-french-mullion-doorwhite-v1--935040.html
+
+Baús: https://assetstore.unity.com/packages/3d/props/low-poly-chest-animated-247127 
+</p>
 
 
 
