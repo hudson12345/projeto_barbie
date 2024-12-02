@@ -1,8 +1,8 @@
 
 # Barbies e as 12 princesas bailarinas
 # Descobrimento do portal no quarto
-Hudson Araujo e Bruno Ichikawa<br>
-link do projeto:https://drive.google.com/drive/folders/16purmqe9eUuVXMQyajnq5HRKYabj6Gge?usp=sharing
+Alunos: Hudson Araujo e Bruno Ichikawa<br>
+link do projeto: https://drive.google.com/drive/folders/16purmqe9eUuVXMQyajnq5HRKYabj6Gge?usp=sharing
 <hr>
 
 ![image](https://github.com/user-attachments/assets/49429753-88fc-424a-a061-f23d93ea32ba)
