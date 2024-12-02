@@ -6,7 +6,6 @@ link do projeto:https://drive.google.com/drive/folders/16purmqe9eUuVXMQyajnq5HRK
 ![image](https://github.com/user-attachments/assets/49429753-88fc-424a-a061-f23d93ea32ba)
 
 <h1>Descrição Filme</h1>
-<hr>
 <p>
 Barbie e as 12 Princesas Bailarinas é um filme de animação lançado em 2006, estrelado por Barbie no papel de Genevieve, uma das doze irmãs princesas. O enredo se passa em um reino mágico onde as princesas vivem no castelo com seu pai, o Rei Randolph. Apesar de serem unidas e alegres, as irmãs são repreendidas por sua paixão por dança, considerada inadequada por sua severa prima, a Duquesa Rowena.
 
@@ -16,7 +15,9 @@ O filme é conhecido por sua trilha sonora encantadora e por coreografias de bal
 </p>
 <hr>
 <h1>Descrição da Cena</h1>
-<hr>
+
+![image](https://github.com/user-attachments/assets/55ded1f9-26cf-46b6-ade6-8a6e59d25bcc)
+
 <p>
 Após descobrirem que sua mãe, antes de falecer, deixou pistas sobre um portal mágico, Genevieve e suas irmãs encontram um livro com instruções misteriosas. O livro menciona um enigma envolvendo os talentos das princesas e sua paixão pela dança.
 
