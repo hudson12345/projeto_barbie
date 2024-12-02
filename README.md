@@ -92,7 +92,7 @@ https://sketchfab.com/3d-models/princess-and-the-pea-1bd50b49d5f244ed9c163941301
 https://sketchfab.com/3d-models/maria-queen01-formal-shirt-catwalk-01-033b69ff1462419bb88becc90ef532fa
 </p>
 
-<h2>Diagrama</h2>
+<h2>Diagrama Antigo</h2>
 
 ![WhatsApp Image 2024-12-01 at 22 29 33_ef08fc67](https://github.com/user-attachments/assets/262892d7-8fc3-444f-98eb-c18dc349e796)
 
